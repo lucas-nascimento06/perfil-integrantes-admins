@@ -26,7 +26,7 @@
     { "id": 7, "texto": "💑 Apaixona fácil, some mais rápido ainda", "ativo": true },
     { "id": 8, "texto": "🤡 Já deu unfollow e follow no mesmo perfil umas 4 vezes", "ativo": true },
     { "id": 9, "texto": "💔 Manda indiretas no status e fica vendo quem visualizou", "ativo": true },
-    { "id": 10, "texto": "😏 Tá apaixonado(a) por alguém do grupo mas fingi que não", "ativo": true }
+    { "id": 10, "texto": "😏 Tá apaixonado(a) por alguém do grupo mas finge que não", "ativo": true }
   ],
   "grupo": [
     { "id": 1, "texto": "📱 Fica 'online' mas 'não viu' a mensagem conveniente", "ativo": true },
