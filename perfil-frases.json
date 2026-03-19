@@ -1,3 +1,4 @@
+
 {
   "versao": "1.0.0",
   "descricao": "Frases do comando #perfil - Bot WhatsApp",
@@ -75,8 +76,6 @@
     { "id": 8, "texto": "🧩 *Diagnóstico:* Difícil de entender, impossível de ignorar", "ativo": true }
   ],
   "rodape": [
-    { "id": 1, "texto": "⚠️ _99% preciso, 1% mentira descarada_ 🤖", "ativo": true },
-    { "id": 2, "texto": "📊 _Dados via satélite, drone e fofoca_ 🔬", "ativo": true },
-    { "id": 3, "texto": "🤖 _IA treinada em 300 anos de fofoca_ ✅", "ativo": true }
+    { "id": 1, "texto": "⚠️ _Resultado 99% preciso e 1% safadeza do sistema_ 🤖🍻", "ativo": true }
   ]
 }
