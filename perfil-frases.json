@@ -9,7 +9,7 @@
     "apenas_grupos": false
   },
   "abertura": [
-    { "id": 1, "texto": "🔍 *Analisando o ser humano mais duvidoso do grupo...*", "ativo": true },
+    { "id": 1, "texto": "🔍 *Analisando o ser humano mais duvidoso do grupo.....*", "ativo": true },
     { "id": 2, "texto": "🕵️ *Detetive do grupo ativado! Investigando...*", "ativo": true },
     { "id": 3, "texto": "📊 *Sistema de análise psicológica iniciado...*", "ativo": true },
     { "id": 4, "texto": "🔬 *Laboratório de zoeira processando dados...*", "ativo": true },
