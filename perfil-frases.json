@@ -1,0 +1,82 @@
+{
+  "versao": "1.0.0",
+  "descricao": "Frases do comando #perfil - Bot WhatsApp",
+  "atualizado_em": "2025-02-26",
+  "config": {
+    "delay_min_ms": 10000,
+    "delay_max_ms": 15000,
+    "mostrar_foto": true,
+    "apenas_grupos": false
+  },
+  "abertura": [
+    { "id": 1, "texto": "🔍 *Analisando o ser humano mais duvidoso do grupo...*", "ativo": true },
+    { "id": 2, "texto": "🕵️ *Detetive do grupo ativado! Investigando...*", "ativo": true },
+    { "id": 3, "texto": "📊 *Sistema de análise psicológica iniciado...*", "ativo": true },
+    { "id": 4, "texto": "🔬 *Laboratório de zoeira processando dados...*", "ativo": true },
+    { "id": 5, "texto": "🤖 *IA de 300 reais calculando sua personalidade...*", "ativo": true },
+    { "id": 6, "texto": "🧬 *Escaneando DNA de personalidade duvidosa...*", "ativo": true }
+  ],
+  "amorosa": [
+    { "id": 1, "texto": "💔 Chora ouvindo música do Luan Santana às 2h da manhã pensando no chifrão que levou", "ativo": true },
+    { "id": 2, "texto": "💘 Manda 'oi' no PV pra todo mundo e some quando respondem", "ativo": true },
+    { "id": 3, "texto": "😭 Já mandou 'saudades' pra um ex sem querer (mentira, foi de propósito)", "ativo": true },
+    { "id": 4, "texto": "🌹 Flerta todo mundo no grupo e jura que é 'só amizade'", "ativo": true },
+    { "id": 5, "texto": "💌 Tem 3 conversas abertas no privado e nenhuma vai pra frente", "ativo": true },
+    { "id": 6, "texto": "🎵 Ouve playlist de 'superação' mas continua no stalker do ex", "ativo": true },
+    { "id": 7, "texto": "💑 Apaixona fácil, some mais rápido ainda", "ativo": true },
+    { "id": 8, "texto": "🤡 Já deu unfollow e follow no mesmo perfil umas 4 vezes", "ativo": true },
+    { "id": 9, "texto": "💔 Manda indiretas no status e fica vendo quem visualizou", "ativo": true },
+    { "id": 10, "texto": "😏 Tá apaixonado(a) por alguém do grupo mas fingi que não", "ativo": true }
+  ],
+  "grupo": [
+    { "id": 1, "texto": "📱 Fica 'online' mas 'não viu' a mensagem conveniente", "ativo": true },
+    { "id": 2, "texto": "🔇 Silencia o grupo mas fica vendo tudo sem responder", "ativo": true },
+    { "id": 3, "texto": "👀 Lê todas as mensagens mas responde só quando convém", "ativo": true },
+    { "id": 4, "texto": "😂 Ri de tudo mas não manda nada por medo de ser julgado", "ativo": true },
+    { "id": 5, "texto": "🕐 Some do grupo por semanas e volta como se nada tivesse acontecido", "ativo": true },
+    { "id": 6, "texto": "🎭 No grupo é tímido, no PV é outra pessoa completamente", "ativo": true },
+    { "id": 7, "texto": "📸 Posta story e fica esperando alguém comentar no PV", "ativo": true },
+    { "id": 8, "texto": "🗣️ Fala muito no grupo mas na hora do babado some", "ativo": true },
+    { "id": 9, "texto": "🕵️ Observa tudo no grupo mas nunca se expõe", "ativo": true },
+    { "id": 10, "texto": "😴 Aparece só quando tem meme bom, some depois", "ativo": true }
+  ],
+  "secreto": [
+    { "id": 1, "texto": "🙈 Anda pelado em casa e jura que é porque 'tá calor'", "ativo": true },
+    { "id": 2, "texto": "🛁 Canta no banho igual cantor profissional", "ativo": true },
+    { "id": 3, "texto": "🥴 Faz dancinhas sozinho quando acha que ninguém tá vendo", "ativo": true },
+    { "id": 4, "texto": "🍕 Come escondido no quarto de madrugada", "ativo": true },
+    { "id": 5, "texto": "📺 Faz maratona de série e manda 'to ocupado' pra todo mundo", "ativo": true },
+    { "id": 6, "texto": "🌙 Fica acordado até tarde sem fazer nada útil", "ativo": true },
+    { "id": 7, "texto": "💭 Tem conversas imaginárias no banho que ganhou sempre", "ativo": true },
+    { "id": 8, "texto": "🤫 Stalkeou o crush até a foto de perfil de 2015", "ativo": true },
+    { "id": 9, "texto": "🪞 Faz pose na frente do espelho toda vez que passa", "ativo": true },
+    { "id": 10, "texto": "🎤 Decora música inteira mas esquece o nome do artista", "ativo": true }
+  ],
+  "gostosura": [
+    { "id": 1, "texto": "🔥 *Nível de gostosura:* Perigoso! Os óculos quebram de longe", "ativo": true },
+    { "id": 2, "texto": "😍 *Nível de gostosura:* Tá na faixa dos 70%... que já tá ótimo!", "ativo": true },
+    { "id": 3, "texto": "💅 *Nível de gostosura:* 100% na própria cabeça, 60% na realidade", "ativo": true },
+    { "id": 4, "texto": "🌡️ *Nível de gostosura:* Suficiente pra aquecer o ambiente", "ativo": true },
+    { "id": 5, "texto": "✨ *Nível de gostosura:* Gato(a) sim, mas não deixa subir muito", "ativo": true },
+    { "id": 6, "texto": "🏆 *Nível de gostosura:* Top 10 do grupo (somos só 10 aqui)", "ativo": true },
+    { "id": 7, "texto": "💫 *Nível de gostosura:* Tem dias bom, tem dias... bom também!", "ativo": true },
+    { "id": 8, "texto": "🎯 *Nível de gostosura:* Depende da iluminação e do ângulo", "ativo": true },
+    { "id": 9, "texto": "😂 *Nível de gostosura:* Na escuridão, passa!", "ativo": true },
+    { "id": 10, "texto": "👑 *Nível de gostosura:* Rainha/Rei do grupo, não tem discussão", "ativo": true }
+  ],
+  "diagnostico": [
+    { "id": 1, "texto": "🧠 *Diagnóstico:* Caótico(a) funcional com tendência a procrastinar", "ativo": true },
+    { "id": 2, "texto": "📋 *Diagnóstico:* Complexo(a) demais pra ser entendido(a) facilmente", "ativo": true },
+    { "id": 3, "texto": "🎪 *Diagnóstico:* Diversão garantida mas dá trabalho conviver", "ativo": true },
+    { "id": 4, "texto": "⚠️ *Diagnóstico:* Adorável mas perigoso(a) pro coração alheio", "ativo": true },
+    { "id": 5, "texto": "🌪️ *Diagnóstico:* Furacão emocional com intervalos de sol", "ativo": true },
+    { "id": 6, "texto": "🎲 *Diagnóstico:* Imprevisível. Pode ser ótimo ou pode ser demais", "ativo": true },
+    { "id": 7, "texto": "🤯 *Diagnóstico:* Surpreendente, assustador e viciante ao mesmo tempo", "ativo": true },
+    { "id": 8, "texto": "🧩 *Diagnóstico:* Difícil de entender, impossível de ignorar", "ativo": true }
+  ],
+  "rodape": [
+    { "id": 1, "texto": "⚠️ _Análise gerada pelo Bot com 99% de precisão científica e 1% de mentira descarada_\n🤖 _Qualquer semelhança com a realidade é pura coincidência (ou não)_", "ativo": true },
+    { "id": 2, "texto": "📊 _Dados coletados via satélite, drone e fofoca de grupo_\n🔬 _Instituto Brasileiro de Zoeira Aplicada_", "ativo": true },
+    { "id": 3, "texto": "🤖 _IA treinada com 300 anos de fofoca e 0 noção de limite_\n✅ _Resultado 100% verdadeiro (talvez)_", "ativo": true }
+  ]
+}
