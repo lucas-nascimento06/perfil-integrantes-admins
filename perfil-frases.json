@@ -1,4 +1,3 @@
-
 {
   "versao": "1.0.0",
   "descricao": "Frases do comando #perfil - Bot WhatsApp",
@@ -9,14 +8,6 @@
     "mostrar_foto": true,
     "apenas_grupos": false
   },
-  "abertura": [
-    { "id": 1, "texto": "🔍 *Analisando o ser humano mais duvidoso do grupo.....*", "ativo": true },
-    { "id": 2, "texto": "🕵️ *Detetive do grupo ativado! Investigando...*", "ativo": true },
-    { "id": 3, "texto": "📊 *Sistema de análise psicológica iniciado...*", "ativo": true },
-    { "id": 4, "texto": "🔬 *Laboratório de zoeira processando dados...*", "ativo": true },
-    { "id": 5, "texto": "🤖 *IA de 300 reais calculando sua personalidade...*", "ativo": true },
-    { "id": 6, "texto": "🧬 *Escaneando DNA de personalidade duvidosa......*", "ativo": true }
-  ],
   "amorosa": [
     { "id": 1, "texto": "💔 Chora ouvindo música do Luan Santana às 2h da manhã pensando no chifrão que levou", "ativo": true },
     { "id": 2, "texto": "💘 Manda 'oi' no PV pra todo mundo e some quando respondem", "ativo": true },
