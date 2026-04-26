@@ -509,9 +509,7 @@
 { "id": 498, "texto": "🎰 *Caça-níquel do amor versão cassino online brasileiro:* Do jeito que vicia em perder", "ativo": true },
 { "id": 499, "texto": "🧩 *Quebra-cabeça emocional 5000 peças viradas pro lado do avesso*", "ativo": true },
 { "id": 500, "texto": "🎯 *Alvo número 1 da zoeira do bot:* Todo mundo dá risada, inclusive ele/ela depois que passa o drama", "ativo": true }
-   
-
-  ],
+],
   "grupo": [
 { "id": 1, "texto": "🚪 *Comportamento:* Sai do grupo quando não recebe atenção por 2 horas seguidas", "ativo": true },
 { "id": 2, "texto": "💬 *Estilo:* Reclama com adm no PV, mas no grupo é 'tudo lindo, amém'", "ativo": true },
@@ -1515,7 +1513,6 @@
 { "id": 498, "texto": "📱 *Verdade que ninguém fala:* Tira print e apaga sem querer", "ativo": true },
 { "id": 499, "texto": "🤫 *Verdade que ninguém fala:* Sabe o que todo mundo pensa sobre voce mas finge", "ativo": true },
 { "id": 500, "texto": "🔞 *Verdade que ninguém fala:* Tem mais podre guardado que o arquivo do Fantástico", "ativo": true }
-    
   ],
   "gostosura": [
 { "id": 1, "texto": "🤡 *Gostosura:* Feio(a) com força, mas acha que tá arrasando (e a gente deixa)", "ativo": true },
@@ -2542,7 +2539,7 @@
   { "id": 18, "texto": "⚠️ _Chiquinha viu a cena: 'não sou de brigar' e já partiu pra briga_ 😂🍻", "ativo": true },
   { "id": 19, "texto": "🤖 _Informe Chiquinha: seu grupo do zap só tem áudio de 3 minutos_ 🎯", "ativo": true },
   { "id": 20, "texto": "⚠️ _Chiquinha aposta: você nunca leu termos de uso de nada_ 😂🍻", "ativo": true },
-      { "id": 21, "texto": "🤖 _Chiquinha dedurou: você finge que não viu a mensagem, mas respondeu no grupo_ 🎯", "ativo": true },
+  { "id": 21, "texto": "🤖 _Chiquinha dedurou: você finge que não viu a mensagem, mas respondeu no grupo_ 🎯", "ativo": true },
   { "id": 22, "texto": "⚠️ _Pela Chiquinha: seu stories com texto de autoajuda às 2h da manhã_ 😂🍻", "ativo": true },
   { "id": 23, "texto": "🤖 _Chiquinha anotou: você critica o sistema, mas ama o cashback_ 🎯", "ativo": true },
   { "id": 24, "texto": "⚠️ _Fala a Chiquinha: 'vou parar de beber' – disse quem bebeu ontem_ 😂🍻", "ativo": true },
