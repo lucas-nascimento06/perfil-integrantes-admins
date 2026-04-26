@@ -1,72 +1,61 @@
 {
-  "versao": "1.0.0",
-  "descricao": "Frases do comando #perfil - Bot WhatsApp",
-  "atualizado_em": "2025-02-26",
+  "versao": "2.0.0",
+  "descricao": "Frases do comando #perfil - Bot WhatsApp (versão TROLL)",
+  "atualizado_em": "2026-04-25",
   "config": {
-    "delay_min_ms": 10000,
-    "delay_max_ms": 15000,
+    "delay_min_ms": 5000,
+    "delay_max_ms": 12000,
     "mostrar_foto": true,
-    "apenas_grupos": false
+    "apenas_grupos": true
   },
   "amorosa": [
-    { "id": 1, "texto": "💔 Chora ouvindo música do Luan Santana às 2h da manhã pensando no chifrão que levou", "ativo": true },
-    { "id": 2, "texto": "💘 Manda 'oi' no PV pra todo mundo e some quando respondem", "ativo": true },
-    { "id": 3, "texto": "😭 Já mandou 'saudades' pra um ex sem querer (mentira, foi de propósito)", "ativo": true },
-    { "id": 4, "texto": "🌹 Flerta todo mundo no grupo e jura que é 'só amizade'", "ativo": true },
-    { "id": 5, "texto": "💌 Tem 3 conversas abertas no privado e nenhuma vai pra frente", "ativo": true },
-    { "id": 6, "texto": "🎵 Ouve playlist de 'superação' mas continua no stalker do ex", "ativo": true },
-    { "id": 7, "texto": "💑 Apaixona fácil, some mais rápido ainda", "ativo": true },
-    { "id": 8, "texto": "🤡 Já deu unfollow e follow no mesmo perfil umas 4 vezes", "ativo": true },
-    { "id": 9, "texto": "💔 Manda indiretas no status e fica vendo quem visualizou", "ativo": true },
-    { "id": 10, "texto": "😏 Tá apaixonado(a) por alguém do grupo mas finge que não", "ativo": true }
+    { "id": 1, "texto": "💔 *Vida amorosa:* Já tomou tanto chifre que virou protetor de tv", "ativo": true },
+    { "id": 2, "texto": "😭 *Status:* Emocionado nível hard — chora com comercial de margarina", "ativo": true },
+    { "id": 3, "texto": "🔄 *Relacionamentos:* Troca de namorado(a) igual troca de roupa íntima (quase nunca)", "ativo": true },
+    { "id": 4, "texto": "👀 *Fiscal de relacionamento alheio:* Sabe mais da vida do casal do que eles mesmos", "ativo": true },
+    { "id": 5, "texto": "💀 *Red flag total:* Posta indireta, apaga, posta de novo e jura que não é com ninguém", "ativo": true },
+    { "id": 6, "texto": "🥀 *Ex tracker:* Mantém média de 3 ex's no radar e acha que ninguém percebe", "ativo": true },
+    { "id": 7, "texto": "🔥 *Fogo no parquinho:* Se ver o crush com outra(e), derruba o grupo na porrada", "ativo": true },
+    { "id": 8, "texto": "📉 *Carência:* Manda 'tchau grupo' e volta 2 dias depois como se nada tivesse acontecido", "ativo": true }
   ],
   "grupo": [
-    { "id": 1, "texto": "📱 Fica 'online' mas 'não viu' a mensagem conveniente", "ativo": true },
-    { "id": 2, "texto": "🔇 Silencia o grupo mas fica vendo tudo sem responder", "ativo": true },
-    { "id": 3, "texto": "👀 Lê todas as mensagens mas responde só quando convém", "ativo": true },
-    { "id": 4, "texto": "😂 Ri de tudo mas não manda nada por medo de ser julgado", "ativo": true },
-    { "id": 5, "texto": "🕐 Some do grupo por semanas e volta como se nada tivesse acontecido", "ativo": true },
-    { "id": 6, "texto": "🎭 No grupo é tímido, no PV é outra pessoa completamente", "ativo": true },
-    { "id": 7, "texto": "📸 Posta story e fica esperando alguém comentar no PV", "ativo": true },
-    { "id": 8, "texto": "🗣️ Fala muito no grupo mas na hora do babado some", "ativo": true },
-    { "id": 9, "texto": "🕵️ Observa tudo no grupo mas nunca se expõe", "ativo": true },
-    { "id": 10, "texto": "😴 Aparece só quando tem meme bom, some depois", "ativo": true }
+    { "id": 1, "texto": "🚪 *Comportamento:* Sai do grupo quando não recebe atenção por 2 horas seguidas", "ativo": true },
+    { "id": 2, "texto": "💬 *Estilo:* Reclama com adm no PV, mas no grupo é 'tudo lindo, amém'", "ativo": true },
+    { "id": 3, "texto": "🐍 *Fala mal:* Critica os adm pelas costas, mas quando volta chama de 'meu querido'", "ativo": true },
+    { "id": 4, "texto": "🔢 *Contador de mensagem:* Sabe quantas mensagens cada um mandou na semana. Tem planilha.", "ativo": true },
+    { "id": 5, "texto": "📸 *Fiscal de foto:* Posta story e fica igual FBI contando quem viu e quem não viu", "ativo": true },
+    { "id": 6, "texto": "👁️ *Xereta master:* Sabe quem tá online, quem tá off, quem tá só visualizando... até a hora do cocô", "ativo": true },
+    { "id": 7, "texto": "🎭 *Falso humilde:* 'Não gosto de fofoca' mas é o primeiro a puxar o babado e espalhar", "ativo": true },
+    { "id": 8, "texto": "⏳ *Famoso sumiço:* Sai 'magoado' do grupo, cria outro grupo sem os adm, depois volta chorando", "ativo": true },
+    { "id": 9, "texto": "🕵️ *Detetive particular:* Fica horas olhando quem falou com quem e interpreta significado oculto em 'bom dia'", "ativo": true }
   ],
   "secreto": [
-    { "id": 1, "texto": "🙈 Anda pelado em casa e jura que é porque 'tá calor'", "ativo": true },
-    { "id": 2, "texto": "🛁 Canta no banho igual cantor profissional", "ativo": true },
-    { "id": 3, "texto": "🥴 Faz dancinhas sozinho quando acha que ninguém tá vendo", "ativo": true },
-    { "id": 4, "texto": "🍕 Come escondido no quarto de madrugada", "ativo": true },
-    { "id": 5, "texto": "📺 Faz maratona de série e manda 'to ocupado' pra todo mundo", "ativo": true },
-    { "id": 6, "texto": "🌙 Fica acordado até tarde sem fazer nada útil", "ativo": true },
-    { "id": 7, "texto": "💭 Tem conversas imaginárias no banho que ganhou sempre", "ativo": true },
-    { "id": 8, "texto": "🤫 Stalkeou o crush até a foto de perfil de 2015", "ativo": true },
-    { "id": 9, "texto": "🪞 Faz pose na frente do espelho toda vez que passa", "ativo": true },
-    { "id": 10, "texto": "🎤 Decora música inteira mas esquece o nome do artista", "ativo": true }
+    { "id": 1, "texto": "🤫 *Segredo nível 1:* Chora escondido ouvindo 'Evidências' e jura que foi o vento", "ativo": true },
+    { "id": 2, "texto": "📱 *Segredo nível 2:* Tira print de tudo e manda no grupo 'paralelo da fofoca'", "ativo": true },
+    { "id": 3, "texto": "🎭 *Segredo nível 3:* Tem 3 grupos simultâneos onde ele(a) é o protagonista", "ativo": true },
+    { "id": 4, "texto": "💣 *Segredo nível 4:* Já derrubou um relacionamento de 3 anos com uma fofoca 'inocente'", "ativo": true },
+    { "id": 5, "texto": "📊 *Segredo nível 5:* Faz análise estatística de quem deu like em quem e mostra print como prova", "ativo": true },
+    { "id": 6, "texto": "🌙 *Segredo nível 6:* Às 2h da manhã manda áudio de 5 minutos desabafando sobre a vida", "ativo": true },
+    { "id": 7, "texto": "🔞 *Segredo nível 7:* Tem mais fofoca guardada que o Casos de Família", "ativo": true }
   ],
   "gostosura": [
-    { "id": 1, "texto": "🔥 *Nível de gostosura:* Perigoso! Os óculos quebram de longe", "ativo": true },
-    { "id": 2, "texto": "😍 *Nível de gostosura:* Tá na faixa dos 70%... que já tá ótimo!", "ativo": true },
-    { "id": 3, "texto": "💅 *Nível de gostosura:* 100% na própria cabeça, 60% na realidade", "ativo": true },
-    { "id": 4, "texto": "🌡️ *Nível de gostosura:* Suficiente pra aquecer o ambiente", "ativo": true },
-    { "id": 5, "texto": "✨ *Nível de gostosura:* Gato(a) sim, mas não deixa subir muito", "ativo": true },
-    { "id": 6, "texto": "🏆 *Nível de gostosura:* Top 10 do grupo (somos só 10 aqui)", "ativo": true },
-    { "id": 7, "texto": "💫 *Nível de gostosura:* Tem dias bom, tem dias... bom também!", "ativo": true },
-    { "id": 8, "texto": "🎯 *Nível de gostosura:* Depende da iluminação e do ângulo", "ativo": true },
-    { "id": 9, "texto": "😂 *Nível de gostosura:* Na escuridão, passa!", "ativo": true },
-    { "id": 10, "texto": "👑 *Nível de gostosura:* Rainha/Rei do grupo, não tem discussão", "ativo": true }
+    { "id": 1, "texto": "🤡 *Gostosura:* Feio(a) com força, mas acha que tá arrasando (e a gente deixa)", "ativo": true },
+    { "id": 2, "texto": "😬 *Gostosura:* Depende da bebida, da luz... e do nível de carência alheia", "ativo": true },
+    { "id": 3, "texto": "😎 *Gostosura:* Na própria cabeça é 11/10, na realidade é 4/10 com margem de erro", "ativo": true },
+    { "id": 4, "texto": "🫣 *Gostosura:* Bonitinho(a) mas ordinário(a) — igual levar presente com nota fiscal", "ativo": true },
+    { "id": 5, "texto": "🏚️ *Gostosura:* Foto com filtro fica top, pessoalmente parece que saiu do fundo do baú", "ativo": true },
+    { "id": 6, "texto": "⚖️ *Gostosura:* Dá pro gasto, mas não bota no currículo", "ativo": true }
   ],
   "diagnostico": [
-    { "id": 1, "texto": "🧠 *Diagnóstico:* Caótico(a) funcional com tendência a procrastinar", "ativo": true },
-    { "id": 2, "texto": "📋 *Diagnóstico:* Complexo(a) demais pra ser entendido(a) facilmente", "ativo": true },
-    { "id": 3, "texto": "🎪 *Diagnóstico:* Diversão garantida mas dá trabalho conviver", "ativo": true },
-    { "id": 4, "texto": "⚠️ *Diagnóstico:* Adorável mas perigoso(a) pro coração alheio", "ativo": true },
-    { "id": 5, "texto": "🌪️ *Diagnóstico:* Furacão emocional com intervalos de sol", "ativo": true },
-    { "id": 6, "texto": "🎲 *Diagnóstico:* Imprevisível. Pode ser ótimo ou pode ser demais", "ativo": true },
-    { "id": 7, "texto": "🤯 *Diagnóstico:* Surpreendente, assustador e viciante ao mesmo tempo", "ativo": true },
-    { "id": 8, "texto": "🧩 *Diagnóstico:* Difícil de entender, impossível de ignorar", "ativo": true }
+    { "id": 1, "texto": "🧠 *Laudo técnico:* Transtorno de personagem principal — tudo é sobre ele(a)", "ativo": true },
+    { "id": 2, "texto": "📋 *CID imaginário:* Fofocite aguda, carência crônica e chilique repentino", "ativo": true },
+    { "id": 3, "texto": "⚠️ *Aviso:* Manuseie com distância. Risco de drama e saída do grupo repentina", "ativo": true },
+    { "id": 4, "texto": "🎭 *Perfil:* Cria caso onde não tem, briga onde tá quieto e sai de vítima sempre", "ativo": true },
+    { "id": 5, "texto": "🔄 *Recorrência:* Toda lua cheia dá pitaco na vida amorosa alheia e causa caos", "ativo": true },
+    { "id": 6, "texto": "📌 *Classificação:* Cidadão médio do grupo de WhatsApp — confunde like com declaração de amor", "ativo": true }
   ],
   "rodape": [
-    { "id": 1, "texto": "⚠️ _Resultado 99% preciso e 1% safadeza do sistema_ 🤖🍻", "ativo": true }
+    { "id": 1, "texto": "🤖 _Perfil gerado pelo Bot da Zoeria — se doeu, é porque é verdade_ 🎯", "ativo": true },
+    { "id": 2, "texto": "⚠️ _Não levamos a sério (e você também não deveria)_ 😂🍻", "ativo": true }
   ]
 }
